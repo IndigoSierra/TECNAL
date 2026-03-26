@@ -1,0 +1,27 @@
+Category,Name,Price,Source,Purpose
+Already Purchased Items,,,,
+Electronics,XOAR 6015 250kv motor,$59.44,https://shop.xoarintl.com/products/titan-t6015-250-kv-brushless-electric-motor,Propulsion
+,2x iFlight FULLSEND LR 6S 8000mAh 22.2v 6S2P Li-Ion Battery,$245.98,https://pyrodrone.com/products/iflight-fullsend-6s-8000mah-22-2v-6s2p-li-ion-battery-xt60,Wired together for a 12s 4p 8000mah battery pack
+,X-Cross HV3 60A ESC 5-12S,$64.99,https://www.amazon.com/dp/B0C3CT6CQW,High voltage ESC
+,4x 2000 Series Dual Mode Servo,$147.96,https://www.servocity.com/2000-series-dual-mode-servo-25-2/,Servos for control surfaces
+,Boxer Radio Controller,$139.99,https://radiomasterrc.com/collections/boxer-radio/products/boxer-radio-controller-m2,ELRS radio controller
+,RP3 V2 ExpressLRS 2.4ghz Nano Receiver,$19.99,https://radiomasterrc.com/products/rp3-expresslrs-2-4ghz-nano-receiver,ELRS radio reciever 
+,18650 3200mAh 3.7V Battery,$11.99,https://radiomasterrc.com/products/18650-3200mah-3-7v-battery-2pcs-for-tx16s-boxer-tx12-mt12-radios,Batteries for the radio
+,Holybro Pixhawk 6C Flight Controller Baseboard PM02/06/07 Power Module M9N/M10,$259.34,https://www.ebay.com/itm/235785583641?var=536165174273,Flight controller w/power and gps module
+Materials,20x large paint sticks,$17.40,local supplier,Spars for strucural integrity
+,PETG+PLA filament,N/A,already have,Custom structure for various parts
+,20x foam board sheets,N/A,already have,Used for the skin of the aircraft
+Category,Name,Price,Source,Purpose
+Items to purchase,,,,
+,XT60 Serial Series Battery Connector,$8.99,https://www.amazon.com/gp/product/B077QX4NKD?psc=1,Modular wiring for the battery packs
+,HOTA D6 Pro Lipo Charger,$123.99,https://www.amazon.com/gp/product/B0827S7NYV?psc=1,Charger for the batteries
+,Matek 12S Pro BEC,$24.99,https://pyrodrone.com/products/matek-12s-pro-bec-12s-9-55v-input-5v-8v-12v-5a-output,BEC for servos
+, 13x8E APC Propeller,$5.73,https://www.apcprop.com/product/13x8e/?v=7516fd43adaa,Prop for 12s configuration
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------,,,,
+Item Total (No tax or shipping),,"$1,130.78",,
+,,,,
+Total for items I still need,$24.99,,,
+,$8.99,,,
+,$5.73,,,
+,$123.99,,,
+Total,$163.70,,,
